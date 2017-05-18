@@ -1,0 +1,13 @@
+a,
+a:hover,
+a:focus,
+a:active{
+	text-decoration: none;
+}
+#footer-logo{
+	max-width: initial;
+}
+#main h1{
+	font-size: 25px;
+	line-height: 1.2;
+}
